@@ -1,0 +1,14 @@
+drwx------. 4 123  123  4096 Apr 22 07:16 .
+d-wx--x--x. 8 root root 4096 Apr 22 07:13 ..
+-rw-------. 1 123  123    90 Apr 22 07:18 .bash_history
+-rw-r--r--. 1 123  123    18 Mar 23  2017 .bash_logout
+-rw-r--r--. 1 123  123   176 Mar 23  2017 .bash_profile
+-rw-r--r--. 1 123  123   124 Mar 23  2017 .bashrc
+drwxrw----. 3 123  123  4096 Apr 22 07:16 .pki
+drwxr-xr-x. 3 123  123  4096 Apr 22 07:33 store
+
+
+-rw-rw-r--. 1 123 123  30 Apr 22 07:17 file1
+-rw-rw-r--. 1 123 123 402 Apr 22 07:33 file2
+-rw-rw-r--. 1 123 123  15 Apr 22 07:17 file3
+
