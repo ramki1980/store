@@ -7,3 +7,8 @@ d-wx--x--x. 8 root root 4096 Apr 22 07:13 ..
 drwxrw----. 3 123  123  4096 Apr 22 07:16 .pki
 drwxr-xr-x. 3 123  123  4096 Apr 22 07:33 store
 
+
+-rw-rw-r--. 1 123 123  30 Apr 22 07:17 file1
+-rw-rw-r--. 1 123 123 402 Apr 22 07:33 file2
+-rw-rw-r--. 1 123 123  15 Apr 22 07:17 file3
+
